@@ -1,0 +1,24 @@
+.hamstring {
+  margin-left: 10rem;
+}
+
+.color-dome {
+  background-color: aqua;
+}
+
+.ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: orange;
+}
+
+.li {
+  float: left;
+}
+
+.li a {
+  display: block;
+  color: black;
+}/*# sourceMappingURL=background.css.map */
