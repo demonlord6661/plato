@@ -6,5 +6,11 @@ function setOutput(outputContent) {
 
 function delayedMessage() {
   setOutput('');
-  timeoutID = setTimeout(setOutput, 2*1000, 'So you know all did was go to work over the summer and do things like work and sleep and code here and there nothing mind breaking but if you really needed to know here it is just your everyday life at work moment im real chill about it.');
+  timeoutID = setTimeout(setOutput, 2*1000, 'For the most of Summer it was really bland sleep wake up go to work and so on but what i found fun was the free time it generated over the summer time was like an infinte loop coding error and it was refreshing to have time to myself however short lived it was.');
 }
+
+var img = document.createElement('img');
+img.src = 'img/grass-backyard.png';
+
+var div = document.getElementById('x');
+div.appendChild(img);
