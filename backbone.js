@@ -14,3 +14,5 @@ img.src = 'img/grass-backyard.png';
 
 var div = document.getElementById('x');
 div.appendChild(img);
+
+
